@@ -91,7 +91,7 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Congratulations! You have completed the game.
+           ❤️ Parabéns, meu amor! Você completou o game! 
           </motion.h2>
         )}
         {step === 1 && (
@@ -103,7 +103,7 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            I have a surprise for you!
+            Eu tenho uma surpresa para você
           </motion.h2>
         )}
         {step === 2 && (
@@ -132,7 +132,7 @@ export default function ValentinesProposal() {
             <h2
               className={`text-5xl font-semibold mb-8 ${playfairDisplay.className}`}
             >
-              Will you be my Valentine?
+              Você aceita namorar comigo?
             </h2>
             <Image
               src="/sad_hamster.png"
@@ -145,7 +145,7 @@ export default function ValentinesProposal() {
                 className="px-6 py-2 text-lg font-semibold text-white bg-gradient-to-r from-pink-500 to-rose-500 rounded-xl hover:from-pink-600 hover:to-rose-600 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
                 onClick={handleYesClick}
               >
-                Yes, I will! 🥰
+                Sim, eu quero 🥰
               </button>
               <button
                 className="px-6 py-2 text-lg font-semibold text-white bg-gradient-to-r from-gray-500 to-gray-600 rounded-xl hover:from-gray-600 hover:to-gray-700 transform hover:scale-95 transition-all duration-300 shadow-lg"
@@ -160,7 +160,7 @@ export default function ValentinesProposal() {
                 }
                 onMouseEnter={() => setPosition(getRandomPosition())}
               >
-                No, I won&apos;t 😢
+                Não, eca, Deus me livre.😢
               </button>
             </div>
           </motion.div>
@@ -174,8 +174,11 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Thank you for accepting, I love you! 💕
-            <p className="text-sm mt-4">For more information, write me!!! 💌</p>
+            Feliz 100 dias que nos conhecemos! São 100 dias dos mais felizes da minha vida, e não serão os últimos — serão daqui pra toda a vida. Eu te amo, meu amor!
+            Lembrei que nunca tinha pedido e dado um presente para você, então aqui vai: um presente de 100 dias e um pedido.
+            Obrigado por aceitar, pequena. Se você está vendo isso, é porque aceitou o pedido, hehehehe. 
+            Espero que goste. Amo-te, minha princesinha 💕
+            <p className="text-sm mt-4"> Para mais informações, me chama no WhatsApp e me diz o que achou, minha pequena. 💕💌</p>
             <Image
               src="/hamster_jumping.gif"
               alt="Hamster Feliz"
