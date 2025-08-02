@@ -13,18 +13,21 @@ export default function TextFooter() {
       <h1
         className={`absolute left-10 bottom-5 transform -translate-y-1/2 text-white text-5xl font-bold leading-tight ${playfairDisplay.className}`}
       >
-        <span className="text-gray-400">Ache</span> <br /> o par de fotos
+        <span className="text-gray-400">Encontre</span> <br /> Um Par de fotos
       </h1>
 
       {/* Right Text */}
       <h1
         className={`absolute right-10 bottom-5 transform -translate-y-1/2 text-white text-5xl font-bold leading-tight text-right ${playfairDisplay.className}`}
       >
-        Para revelar<br /> <span className="text-gray-400">a surpresa</span>
+        Para revelar<br /> <span className="text-gray-400">A surpresa</span>
       </h1>
 
       {/* Copyright */}
-    
+      <p className="absolute bottom-5 right-5 text-white text-sm opacity-15 hover:opacity-50">
+        © {new Date().getFullYear()}{" "}
+        <Link href="https://icarobenicio.github.io/presente-de-aniversario-do-meu-amor/">presente.com</Link>
+      </p>
     </>
   );
 }
