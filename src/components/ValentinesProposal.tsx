@@ -174,10 +174,11 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Feliz 100 dias que nos conhecemos! São 100 dias dos mais felizes da minha vida, e não serão os últimos — serão daqui pra toda a vida. Eu te amo, meu amor!
-            Lembrei que nunca tinha pedido e dado um presente para você, então aqui vai: um presente de 100 dias e um pedido.
-            Obrigado por aceitar, pequena. Se você está vendo isso, é porque aceitou o pedido, hehehehe. 
-            Espero que goste. Amo-te, minha princesinha 💕
+            **100 dias passaram tão rápido que nem consigo sentir a passagem do tempo. Parece que foi ontem que a garotinha que conheci na internet falou comigo pela primeira vez. Nossa primeira interação foi cheia de cautela e atenção, mas avançou de maneira tão rápida que nem consigo entender como esses dias passaram tão depressa. Primeiro ganhamos intimidade e depois fomos avançando cada vez mais, um dia sendo melhor que o outro. Nos conhecemos cada vez mais com o passar do tempo, ambos aprendendo um com o outro.
+
+Apesar do tempo, muitas coisas aconteceram nesse período. Só queria dizer que você é muito importante na minha vida, pequena. Ficaremos assim até o infinito, sempre melhorando um pelo outro, aprendendo e evoluindo. A cada dia que passa, eu agradeço por ter você na minha vida, sendo o meu eu mais sincero. Você é a minha garotinha mais especial do mundo, o meu sol.
+
+Aquela gatinha assustada que conheci no início, me contando tudo sobre a vida dela, e eu contando a minha... Vamos sempre nos conhecer de novo e de novo, afinal, os humanos nunca deixam de mudar e evoluir. Estou ansioso para conhecer várias versões da Amandinha que ainda vão aparecer. Amo-te eternamente minha princesinha. Feliz 100 dias! Eu te amoooooooooooooooooooooooooooooooooooooo 💕
             <p className="text-sm mt-4"> Para mais informações, me chama no WhatsApp e me diz o que achou, minha pequena. 💕💌</p>
             <Image
               src="/hamster_jumping.gif"
