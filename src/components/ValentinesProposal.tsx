@@ -174,7 +174,7 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            **100 dias passaram tão rápido que nem consigo sentir a passagem do tempo. Parece que foi ontem que a garotinha que conheci na internet falou comigo pela primeira vez. Nossa primeira interação foi cheia de cautela e atenção, mas avançou de maneira tão rápida que nem consigo entender como esses dias passaram tão depressa. Primeiro ganhamos intimidade e depois fomos avançando cada vez mais, um dia sendo melhor que o outro. Nos conhecemos cada vez mais com o passar do tempo, ambos aprendendo um com o outro.
+            100 dias passaram tão rápido que nem consigo sentir a passagem do tempo. Parece que foi ontem que a garotinha que conheci na internet falou comigo pela primeira vez. Nossa primeira interação foi cheia de cautela e atenção, mas avançou de maneira tão rápida que nem consigo entender como esses dias passaram tão depressa. Primeiro ganhamos intimidade e depois fomos avançando cada vez mais, um dia sendo melhor que o outro. Nos conhecemos cada vez mais com o passar do tempo, ambos aprendendo um com o outro.
 
 Apesar do tempo, muitas coisas aconteceram nesse período. Só queria dizer que você é muito importante na minha vida, pequena. Ficaremos assim até o infinito, sempre melhorando um pelo outro, aprendendo e evoluindo. A cada dia que passa, eu agradeço por ter você na minha vida, sendo o meu eu mais sincero. Você é a minha garotinha mais especial do mundo, o meu sol.
 
